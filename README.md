@@ -1,2 +1,2 @@
 # Minesweeper
-This is a minesweeper game. 
+This is Minesweeper. I hope you enjoy. Play here 

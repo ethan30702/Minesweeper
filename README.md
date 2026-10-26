@@ -1,2 +1,3 @@
 # Minesweeper
-This is Minesweeper. I hope you enjoy. Play here 
+Welcome to Minesweeper. Enjoy
+https://ethan30702.github.io/Minesweeper/
